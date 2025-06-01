@@ -1,3 +1,4 @@
+import React from 'react';
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-slate-100 text-center p-8">
